@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Пример",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_index": 0,
+    "topic": "general",
+    "level": 1
+  }
+]
